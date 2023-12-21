@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the code and SQL queries used for the Consumer Goods domain part of the Data Analytics Bootcamp at Codebasics. In this project, I will be working with a dataset related to consumer goods. The goal is to answer specific ad hoc requests using SQL queries. The data used in this project belongs to "AtliQ Hardwares", a leading hardware company specializing in PCs, printers, mouse, and computers with a global reach.
+This repository contains the SQL queries used to solve 10 ad hoc requests asked by Data Analytics Bootcamp team by Codebasics. In this project, I will be working with a dataset related to consumer goods. The goal is to answer specific ad hoc requests using SQL queries. The data used in this project belongs to "AtliQ Hardwares", a leading hardware company specializing in PCs, printers, mouse, and computers with a global reach.
 
 ## Project Structure
 
