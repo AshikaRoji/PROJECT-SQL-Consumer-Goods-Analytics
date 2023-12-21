@@ -6,7 +6,7 @@ This repository contains the solution to 10 ad hoc requests asked by the managem
 
 ## Project Structure
 
-1.Ad-Hoc Requests : Contains detaials about the project and the ad-hoc requests.
+1.Project Details & Ad-Hoc Requests : Contains detaials about the project and the ad-hoc requests.
 
 2.SQL Files: The SQL queries for each of these ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.
 
