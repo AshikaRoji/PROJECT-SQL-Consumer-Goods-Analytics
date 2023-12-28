@@ -10,8 +10,6 @@ This repository contains the solution to 10 ad hoc requests asked by the managem
 
 2.SQL Files: The SQL queries for each of these ad hoc requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer the specific questions.
 
-3.Project Presentation Files: This ppt file contains the presentation of this project.
-
 ## Skills Learned
 
 1.SQL Query Writing using CTE,rank,joins, date functions,sub-queries,numeric functions etc.
